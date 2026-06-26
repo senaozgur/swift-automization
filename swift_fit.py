@@ -1,4 +1,4 @@
-# Swift XRT spectral fitting pipeline — adapted from nicer_fit.py
+# Swift XRT spectral fitting pipeline — adapted by Sena Nur Özgür from nicer_fit.py
 # Original authors: Batuhan Bahçeci (batuhan.bahceci@sabanciuniv.edu)
 # Swift XRT adaptation: see parameter.py for configuration
 
