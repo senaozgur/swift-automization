@@ -8,7 +8,7 @@ import math
 import re
 
 # ============================================================
-#   parameter.py  —  configuration file for swift_fit.py
+#   parameterfit.py  —  configuration file for swift_fit.py
 #   Swift XRT version (adapted from NICER parameter.py)
 # ============================================================
 
